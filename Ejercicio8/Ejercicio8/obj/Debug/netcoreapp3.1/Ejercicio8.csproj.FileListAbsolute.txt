@@ -1,0 +1,14 @@
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.exe
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.deps.json
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.runtimeconfig.json
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.runtimeconfig.dev.json
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.dll
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.pdb
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.AssemblyInfo.cs
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.dll
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.pdb
+C:\Users\smira\source\repos\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.genruntimeconfig.cache
