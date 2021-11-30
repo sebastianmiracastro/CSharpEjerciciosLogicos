@@ -1,0 +1,5 @@
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio24\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.csproj.AssemblyReference.cache
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio24\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio24\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.AssemblyInfoInputs.cache
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio24\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.AssemblyInfo.cs
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio24\Ejercicio24\obj\Debug\netcoreapp3.1\Ejercicio24.csproj.CoreCompileInputs.cache

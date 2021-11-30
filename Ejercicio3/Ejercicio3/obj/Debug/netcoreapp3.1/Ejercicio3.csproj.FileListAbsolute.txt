@@ -1,0 +1,14 @@
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.exe
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.deps.json
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.runtimeconfig.json
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.runtimeconfig.dev.json
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.dll
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.pdb
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.AssemblyInfo.cs
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.dll
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.pdb
+C:\Users\smira\OneDrive\Escritorio\EjerciciosDeLogicaCSharp\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.genruntimeconfig.cache
